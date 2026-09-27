@@ -21,9 +21,7 @@ gh skill install fanyong1988/consulting-ppt consulting-ppt --agent codex
 
 ## 结果
 
-一个目录，里面是 `prompts.txt` 和按页码排列的 PNG。每一张是整页画面。
-
-Codex 所在环境没有图像工具时，结果只有 `prompts.txt`，并会说明画面还没有生成。
+一个目录，里面是 `prompts.txt` 和按页码排列的 PNG。每一张是整页画面。Codex 用内置的 `image_gen` 出图，不需要 API Key。
 
 ## 许可
 
